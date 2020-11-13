@@ -37,7 +37,7 @@ body {
 .container {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1f;
+    grid-template-columns: 1fr;
     padding: 60px 10px;
     background-color: var(--liight-grayish-blue);    
 }
@@ -57,7 +57,7 @@ p {
 .box1 {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1f;
+    grid-template-columns: 1fr;
     background-color: var(--moderate-violet);
     color: white;
 }
@@ -69,7 +69,7 @@ p {
 .box2 {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1f;
+    grid-template-columns: 1fr;
     background-color: var(--very-dark-grayish-blue);
     color: white;
 }
@@ -81,7 +81,7 @@ p {
 .box3 {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1f;
+    grid-template-columns: 1fr;
     background-color: var(--white);
     
 }
@@ -96,7 +96,7 @@ p {
 .box4 {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1f;
+    grid-template-columns: 1fr;
     background-color: var(--very-dark-blackish-blue);
     color: white;
 }
@@ -108,7 +108,7 @@ p {
 .box5 {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1f;
+    grid-template-columns: 1fr;
     background-color: var(--white);
 }
 .box5 p {
